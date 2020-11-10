@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactfoodielive/static/css/main.c0aaa2a7.chunk.css",
+    "main.js": "/reactfoodielive/static/js/main.4e10229e.chunk.js",
+    "main.js.map": "/reactfoodielive/static/js/main.4e10229e.chunk.js.map",
+    "runtime-main.js": "/reactfoodielive/static/js/runtime-main.28800878.js",
+    "runtime-main.js.map": "/reactfoodielive/static/js/runtime-main.28800878.js.map",
+    "static/css/2.07725c36.chunk.css": "/reactfoodielive/static/css/2.07725c36.chunk.css",
+    "static/js/2.d7806092.chunk.js": "/reactfoodielive/static/js/2.d7806092.chunk.js",
+    "static/js/2.d7806092.chunk.js.map": "/reactfoodielive/static/js/2.d7806092.chunk.js.map",
+    "index.html": "/reactfoodielive/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/reactfoodielive/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.c0aaa2a7.chunk.css.map": "/reactfoodielive/static/css/main.c0aaa2a7.chunk.css.map",
+    "static/js/2.d7806092.chunk.js.LICENSE.txt": "/reactfoodielive/static/js/2.d7806092.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactfoodielive/static/media/foodbackground.844ec377.jpg",
+    "static/media/home.123713de.gif": "/reactfoodielive/static/media/home.123713de.gif",
+    "static/media/img2.f7b7316d.png": "/reactfoodielive/static/media/img2.f7b7316d.png",
+    "static/media/img3.ab44028c.jpg": "/reactfoodielive/static/media/img3.ab44028c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28800878.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.d7806092.chunk.js",
+    "static/css/main.c0aaa2a7.chunk.css",
+    "static/js/main.4e10229e.chunk.js"
+  ]
+}
